@@ -1,48 +1,51 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Abdisa+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Computer Science Student | Aspiring Web Developer
-</h3>
+# Hi, I'm Abdisa 👋
 
-<p align="center">
-  I'm a Computer Science student passionate about technology and programming.
-  <br />
-  Currently learning web development and building my foundation in coding.
-</p>
+### Frontend Web Developer | Computer Science Student
+
+I create clean, responsive websites and practical web projects with a focus on simple, welcoming user experiences.
+
+[View my projects](https://github.com/abdisaabdi695-ui?tab=repositories) · [Contact me on GitHub](https://github.com/abdisaabdi695-ui)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## About me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning HTML, CSS, and JavaScript
-- 💻 Interested in Web Development
-- 🚀 Learning, practicing, and growing every day
-- 🎯 Goal: Become a skilled software developer
+- 🎓 Computer Science student building real-world development skills
+- 🌐 Interested in frontend development and responsive web design
+- 🧪 Projects include a blood pressure and pulse checker, plus website designs
+- 🌱 Continuing to grow my skills in HTML, CSS, and JavaScript
+- 🤝 Open to discussing small website projects and collaborations
 
-### 🛠 Technologies I'm Learning
+## Featured projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" />
+### 🩺 Blood Pressure & Pulse Checker
+A personal project focused on checking blood pressure and pulse. This is for educational purposes only and is not a substitute for professional medical advice or a medical device.
+
+### 💻 Responsive Website
+A mobile-first frontend project built with semantic HTML and modern CSS.
+[View the repository →](https://github.com/abdisaabdi695-ui/website)
+
+### 📸 Photo Studio Website
+A responsive website concept for a photo studio, designed to help visitors explore services and get in touch.
+[View the repository →](https://github.com/abdisaabdi695-ui/abdi-photo-studio)
+
+## Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, and JavaScript" />
 </p>
 
-### 📊 GitHub Statistics
+## Find me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+- GitHub: [@abdisaabdi695-ui](https://github.com/abdisaabdi695-ui)
+- Interested in a website? [Send me a message on GitHub](https://github.com/abdisaabdi695-ui)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+---
 
-<h3 align="center">
-  "Every expert was once a beginner."
-</h3>
-
-<p align="center">
-  Thanks for visiting my profile! ⭐️
-</p>
+<div align="center">
+  <i>Thanks for stopping by — feel free to explore my projects!</i>
+</div>
